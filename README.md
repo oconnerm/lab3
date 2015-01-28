@@ -1,6 +1,7 @@
 # lab3
 Lab 3 - Methods
 Partner: David Morris
+Hi
 
 
 Hi There!
